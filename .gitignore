@@ -1,0 +1,33 @@
+
+# Environment Variables (Contains your Hugging Face API Token)
+.env
+
+# Python Virtual Environments
+venv/
+.venv/
+env/
+ENV/
+
+# Python Cache and Compiled Bytecode
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+.pytest_cache/
+
+# Streamlit Local Cache and Configurations
+.streamlit/config.toml
+.streamlit/secrets.toml
+
+# Project Generated Output Reports & Upload Files
+reports/*.pdf
+assets/processed/
+
+# Operating System Files
+.DS_Store
+Thumbs.db
+Desktop.ini
+
+# IDE Settings
+.vscode/
+.idea/
