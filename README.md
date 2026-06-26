@@ -303,7 +303,7 @@ streamlit run app_v2.py
 ---
 
 # Author
-
+Sourabh Vamdevan
 **Project:** AI PDF Assistant
 
 **Category:** Artificial Intelligence | Multi-Agent Systems | Document Intelligence
