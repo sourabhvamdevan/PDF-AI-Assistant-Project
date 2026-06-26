@@ -9,6 +9,8 @@ AI PDF Assistant is an intelligent multi-agent document analysis application tha
 The application utilizes LangChain for agent orchestration, Hugging Face Serverless API powered by Qwen 2.5 for reasoning, pdfplumber for document extraction, and Streamlit for an interactive web interface.
 
 ---
+# Live Demo:-
+https://pdf-ai-assistant-project-a12.streamlit.app/
 
 # Folder Structure
 
